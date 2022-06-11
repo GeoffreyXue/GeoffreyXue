@@ -4,20 +4,10 @@ Hi, I'm Geoffrey Xue, a current student at UW Madison. I've made quite a few web
 
 Old account - [@GeoffreyX](https://github.com/GeoffreyX)
 
-<p align="center">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=GeoffreyXue&count_private=true&include_all_commits=true&show_icons=true" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffreyXue&hide=HTML&layout=compact&langs_count=8" />
-</p>
-<br />
-
-![](https://komarev.com/ghpvc/?username=GeoffreyXue)
-
-
 ### Hackathon Enthusiast
 🥇x1 @ WebHacks 2022  
 🥈x1 @ Datathon 2021  
 🥉x2 @ Cheesehacks 2021, Hatathon 2022  
-#### More to come soon!
 
 ### Used To Using
 <p align="left">
@@ -41,16 +31,11 @@ Old account - [@GeoffreyX](https://github.com/GeoffreyX)
 ### On The Edge
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width=40 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=40 height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=40 height=40 />
 </p>
 
 ### Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width=40 height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40 height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=40 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=40 height=40 />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=40 height=40 />
 </p>
